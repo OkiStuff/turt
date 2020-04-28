@@ -24,4 +24,4 @@ Now type
 pip install turt
 ```
 
-![gif2]("pip install turt")
+![gif2](https://github.com/OkiStuff/turt/blob/master/gifs/GIF%204-28-2020%2011-13-26%20AM.gif "pip install turt")
