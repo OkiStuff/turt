@@ -47,4 +47,5 @@ print("Hello, Turt Users!")
 ![gif4](https://github.com/OkiStuff/turt/blob/master/gifs/GIF%204-28-2020%2011-31-21%20AM.gif "Coding in Turt")
 
 
-
+### The Turt Interpter is not built yet but this is a early look at the syntax
+The Syntax is very similar to [Python](https://python.org), but there are differences. The Syntax is going to most likey change. So watch out for new syntax
