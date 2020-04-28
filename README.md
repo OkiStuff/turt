@@ -12,4 +12,16 @@ pip
 ```
 
 You should of gotten this in your terminal/command prompt
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "pip")
+
+
+![gif](https://github.com/OkiStuff/turt/blob/master/GIF%204-28-2020%2011-05-57%20AM.gif "pip")
+
+
+If you didn't get this, download [Python and pip](https://python.org)
+
+Now type
+```
+pip install turt
+```
+
+![gif2]("pip install turt")
