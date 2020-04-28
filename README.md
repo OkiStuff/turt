@@ -30,6 +30,11 @@ pip install turt
 
 Go to your text editor of choice, I will be using the [Visual Studio Code Code Editor by Microsoft](https://code.visualstudio.com), make a new file. [filename].turt
 
+
+![gif3](https://github.com/OkiStuff/turt/blob/master/gifs/GIF%204-28-2020%2011-28-35%20AM.gif "Making a new Turt App")
+
+
+Now lets type into the file:
 ```python
 print("Hello, Turt Users!")
 
@@ -37,3 +42,9 @@ print("Hello, Turt Users!")
 # print() prints out a string to the console
 
 ```
+
+
+![gif4](https://github.com/OkiStuff/turt/blob/master/gifs/GIF%204-28-2020%2011-31-21%20AM.gif "Coding in Turt")
+
+
+
