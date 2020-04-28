@@ -49,3 +49,10 @@ print("Hello, Turt Users!")
 
 ### The Turt Interpter is not built yet but this is a early look at the syntax
 The Syntax is very similar to [Python](https://python.org), but there are differences. The Syntax is going to most likey change. So watch out for new syntax
+
+
+# Consider Donating
+To Donate press on the Sponser button
+## If you don't the spare change to donate. Then don't worry!
+It's means just as much if you star the repo.
+Thanks! - The Turt Team
